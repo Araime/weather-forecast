@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/build/
+/dist/
+.env
+exp.txt
+*.spec
